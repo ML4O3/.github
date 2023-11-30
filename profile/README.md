@@ -17,3 +17,5 @@ Discussion about the TOAR-II November/October (sic) meeting are in [this discuss
 We'd like help to organise these. If you're interested in speaking, please reply to  [this discussion](https://github.com/orgs/ML4O3/discussions/2)
 
 ## ML4O3 review paper
+
+Notes from our progress meetings are in [Discussions](https://github.com/orgs/ML4O3/discussions)
