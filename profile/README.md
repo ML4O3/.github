@@ -14,7 +14,9 @@ Discussion about the TOAR-II November/October (sic) meeting are in [this discuss
 
 ## ML4O3 seminars
 
-We'd like help to organise these. If you're interested in speaking, please reply to  [this discussion](https://github.com/orgs/ML4O3/discussions/2)
+Our first seminar will be from Hantao Wang, UNC Chapel Hill on December 19th, 2023, 1400 UTC.  Please see [this discussion](https://github.com/orgs/ML4O3/discussions/4)
+
+We'd like help to organise more of these. If you're interested in speaking, please reply to  [this discussion](https://github.com/orgs/ML4O3/discussions/2)
 
 ## ML4O3 review paper
 
